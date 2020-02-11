@@ -1,2 +1,2 @@
 # Mass-find-and-replace
-Java mass find and replace. For us with .txt files
+Java mass find and replace. For use with .txt files only. All other file types will be ignored by the program.
